@@ -1,7 +1,7 @@
-# 👋 Welcome to A Product
+# ✨ Feather Client Re-creation
 
 {% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+**Warning:** This is not the actual feather client available for pojavlauncher. This is a fan-made recreation of original feather client, which only has same UI as real feather client and I'm also not in the official team behind pojavlauncher.
 {% endhint %}
 
 ## Overview
